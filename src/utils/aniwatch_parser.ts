@@ -19,7 +19,7 @@ import type {
   IVoiceActors,
 } from "../types/aniwatch.d.ts";
 
-const BASE_URL: string = "https://aniwatch.co.at";
+const BASE_URL: string = "https://aniwatch.cl";
 
 const axiosInstance = axios.create({ baseURL: BASE_URL });
 
